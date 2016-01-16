@@ -1,0 +1,8 @@
+.fixalliconposition
+{
+	position:absolute;
+	right:0;
+	top: 5px;
+	z-index:99;
+	cursor:pointer;
+}

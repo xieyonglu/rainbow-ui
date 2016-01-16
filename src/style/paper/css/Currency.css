@@ -1,0 +1,15 @@
+.CheckBoxOutPutText{
+    font-size: 16px;
+	color: #2196f3;
+	padding-left: 15px;
+}
+.currencyoverflow
+{
+	position: absolute;
+	top:4px;
+	padding-left:0;
+}
+.input-group
+{
+	width: 100%;
+}

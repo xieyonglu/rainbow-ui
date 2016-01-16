@@ -1,0 +1,24 @@
+textarea, textarea.form-control, input.form-control, input[type=text], input[type=password], input[type=email], input[type=number], [type=text].form-control, [type=password].form-control, [type=email].form-control, [type=tel].form-control, [contenteditable].form-control {
+    padding: 0;
+    border: none;
+    border-radius: 0;
+    -webkit-appearance: none;
+    -webkit-box-shadow: inset 0 -1px 0 #dddddd;
+    box-shadow: inset 0 -1px 0 #dddddd;
+    font-size: 14px;
+    color: #2196f3;
+}
+
+.outPutText{
+	line-height: 2.5;
+    font-size: 14px;
+	color: #2196f3;
+}
+.fixalliconposition
+{
+    position:absolute;
+    right:0;
+    top: 5px;
+    z-index:99;
+    cursor:pointer;
+}

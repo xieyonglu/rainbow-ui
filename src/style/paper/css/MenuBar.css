@@ -1,0 +1,307 @@
+/* MenuBar Component Style CSS */
+/*6837*/
+.dropdown-menu li {
+  overflow: visible;
+}
+
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu > .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -6px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+}
+
+.dropdown-submenu:hover > .dropdown-menu {
+    display: block;
+}
+
+.dropdown-submenu > a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 5px;
+    margin-right: -10px;
+}
+
+.dropdown-submenu:hover > a:after {
+    border-left-color: #fff;
+}
+
+.dropdown-submenu.pull-left {
+    float: none;
+}
+
+.dropdown-submenu.pull-left > .dropdown-menu {
+    left: -100%;
+    margin-left: 10px;
+    -webkit-border-radius: 6px 0 6px 6px;
+    -moz-border-radius: 6px 0 6px 6px;
+    border-radius: 6px 0 6px 6px;
+}
+
+/* CheckboxButton Component Style CSS */
+.form-control.btn-group {
+	-webkit-box-shadow: none; 
+	box-shadow: none;
+	border: none;
+}
+
+/*
+.datetimepicker {
+	width: 240px;
+}*/
+/*
+.datepicker-dropdown {
+	width: 230px;
+}*/
+/*
+.datepicker td, .datepicker th {
+	width: 20px;
+	height: 20px;
+	border-radius: 4px;
+}
+
+.table-condensed th, .table-condensed td {
+	padding: 4px 5px;
+}*/
+
+/* Alert Component Style CSS */
+.message {
+	border: 1px solid #EBD2B7;
+	border-radius: 3px;
+	color: #5F5F5F;
+	padding: 15px;
+	margin: 0px auto;
+	/*margin-bottom: 100px;*/
+	font-size: 13px;
+	text-align: left;
+	/*background: #FFF1F1 url(../images/icon_warning.gif) 5px 10px no-repeat;*/
+	background: #FFF1F1;
+	width: 100%;
+}
+
+/*7456*/
+.alert-dismissible .close {
+	font-size: 19.5px;
+}
+
+.pagination {
+	margin: 0px;	
+}
+
+.pagination > li > a, .pagination > li > span {
+	padding: 5px 12px;	
+}
+
+/* ColorPicker Component Style CSS */
+.colorpicker.dropdown-menu {
+	min-width: 125px;
+	padding: 3px;
+}
+
+.ui-picklist {
+	border: 2px solid #000000;
+	width: 200px;
+	height: 200px;
+}
+
+/*.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus > a.n-tab-delete,
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus > a.n-tab-delete,
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover > 
+*/
+/*
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus > a.n-tab-delete2 {
+	display: block;
+	position: absolute;
+	float: right;
+	top: 0;
+	right: 2px;
+	padding: 0px;
+	cursor: pointer;
+}*/
+
+/*
+div.n-tabs ul.nav-tabs > li.active > a.n-tab-delete, 
+div.n-tabs ul.nav-pills > li.active > a.n-tab-delete, 
+div.n-tabs ul.nav-tabs > li.active > a.n-tab-delete, 
+div.n-tabs ul.nav-pills > li.active > a.n-tab-delete {
+	display: block;
+	position: absolute;
+	float: right;
+	top: 0;
+	right: 2px;
+	padding: 0px;
+	cursor: pointer;
+}*/
+
+.pickList_sourceListContainer, .pickList_controlsContainer, .pickList_targetListContainer { float: left; margin: 0.25em; }
+.pickList_controlsContainer { text-align: center; }
+.pickList_controlsContainer button { display: block; width: 100%; text-align: center; }
+.pickList_list { list-style-type: none; margin: 0; padding: 0; float: left; width: 150px; height: 75px; border: 1px inset #eee; overflow-y: auto; cursor: default; }
+.pickList_selectedListItem { background-color: #a3c8f5; }
+.pickList_listLabel { font-size: 0.9em; font-weight: bold; text-align: center; }
+.pickList_clear { clear: both; }
+
+.sampleDiv ul {
+                text-decoration: none;
+                list-style: none;
+                padding: 0;
+            }
+            
+            .hoverItem {
+                background: #6CC;
+            }
+            
+            .selectedItem {
+                background: #FC3;
+            } 
+            
+            #sample_1 ul {
+                width: 280px;
+                height: 120px;
+                overflow: auto;
+                border: 1px solid #609;
+            }
+            
+            #sample_1 span {
+                margin: 0 10px;
+            }                
+
+.pageHeaderFixed{
+    position:fixed;
+    top:0;
+    width:100%;
+    z-index: 999;
+    background:#fff; filter: alpha(opacity=70); opacity: 1;   
+}
+span.datalist.badge {
+    float: right;
+    color: white;
+    background-color: tomato;
+}
+.navbar {
+    border: none;
+    -webkit-box-shadow:none;
+    box-shadow:none;
+    margin-bottom:0px;
+}
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+/* bootswatch.paper */
+/*3005*/
+.input-group-btn > .btn {
+  padding: 6px 12px;
+  line-height: 1.42857143;
+}
+
+/*3792*/
+.btn .caret {
+  margin-left: 0px;
+}
+
+.panel-heading {
+	padding: 3px 15px;
+}
+
+/* LeftNav Style CSS */
+.itemLink {
+	padding: 0px;	
+}
+
+
+.ui-chart-container {
+	height: 400px;
+	width: 778px !important;
+	overflow: hidden;
+	padding: 10px;
+	margin-bottom: 10px;
+	border: 1px solid #e3e3e3;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.05);
+	-moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.pagefooter-content {
+	border-top: #C0C0C0 1px dashed;
+	width: 100%;
+	height: 35px;
+	text-align: center;
+	font: 15px blod;
+	border-top: '1px dashed red';
+	padding: 5px;
+}
+/*
+.ui-timeline-container {
+	background-color: #e9f0f5;
+	width: 100%;
+	padding: 10px;
+	border: 1px solid #eeeeee;
+	box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.12), 0 1px 6px 0 rgba(0, 0, 0, 0.12);
+	padding: 10px;
+}*/
+
+.ui-mindmap{
+	width: 800px;
+	height: 500px;
+	border: solid 1px #ccc;
+	background: #f4f4f4;
+}
+
+/* button validate error */
+.has-error input[type="radio"], 
+.has-error input[type="radio"]:focus {
+	-webkit-box-shadow: inset 0 0 0 #e51c23;
+	box-shadow: inset 0 0 0 #e51c23;
+}
+
+/* GMap Style Class */
+/*.ui-gmap {
+	margin: 20px auto;
+	border: 1px dashed #C0C0C0;
+	width: 500px;
+	height: 250px;
+}
+li a span{
+	text-decoration:none;
+}*/
+ 
+
+/* validation remove style class */
+i.form-control-feedback.glyphicon.glyphicon-remove {
+	opacity: 0.01;
+	text-align: right;
+}
+
+.dropdown-menu > li > a{
+	color:#2196f3;
+}
+.navfloatright {
+	float:right;
+}
+
+/* Exception Style Class */
+.ui-exception-message {
+	color: #212121;
+	background-color: #f5f5f5;
+	word-break: break-word;
+}
+

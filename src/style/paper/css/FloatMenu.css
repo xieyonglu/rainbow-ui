@@ -1,0 +1,62 @@
+/* FloatMenu Style Class */
+.ui-floatmenu {
+	position: fixed;
+	opacity: 1;
+	padding: 5px;
+	width: 50px;
+	z-index:100;
+	border-radius: 30px;
+	line-height: 0.6;
+}
+
+.ui-floatmenu a {
+	display: block;
+}
+
+.ui-floatmenu-item {
+	text-align: center;
+	margin: 10px;
+}
+
+.ui-floatmenu-item a {
+	border-radius: 30px;
+	/*background-color: #B22222;*/
+	background-color: orange;
+	text-decoration: none;
+}
+
+a.ui-floatmenu-item:hover {
+	font-weight: bold;
+	text-decoration: none;
+	-webkit-transform: scale(1.2);
+	-moz-transform: scale(1.2);
+	-o-transform: scale(1.2);
+}
+
+.ui-floatmenu-item-text {
+	text-decoration: none;
+	text-align: center;
+	/*height: 40px;*/
+	line-height: 40px;
+	font-weight: bold;
+	cursor: pointer;
+	/*padding: 13px 10px;*/
+}
+
+.ui-floatmenu-list-container {
+	display: none;
+	width: 200px;
+	right: 10px;
+	top: 200px;
+	position: fixed;
+	background-color: orange;
+	padding: 10px;
+	border: 1px solid gray;
+}
+
+.ui-floatmenu-list-item-text {
+	text-align: center;
+	color: #FFFFFF;
+	height: 20px;
+	line-height: 20px;
+}

@@ -1,0 +1,37 @@
+.form-control
+{
+	height:35px;
+	font-size:14px;
+}
+
+.form-group
+{
+	margin-bottom:5px;
+}
+
+
+
+.pickerposition{
+	position:absolute;
+	right:0;
+	top: 5px;
+	z-index:99;
+	cursor:pointer;
+}
+
+/*
+.form-control:focus{
+	animation:inputfocus 0.3s 1 ;
+	-moz-animation:inputfocus 0.3s 1 ;
+	-webkit-animation:inputfocus 0.3s 1 ;
+	-o-animation:inputfocus 0.3s 1 ;
+}
+@keyframes inputfocus
+{	from {width:20%;}	to {width:100%;}}
+@-moz-keyframes inputfocus
+{	from {width:20%;}	to {width:100%;}}
+@-webkit-keyframes inputfocus
+{ from {width:20%;}	to {width:100%;}}
+@-o-keyframes inputfocus
+{	from {width:20%;}	to {width:100%;}}
+*/

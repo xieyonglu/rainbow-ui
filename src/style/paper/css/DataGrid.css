@@ -1,0 +1,15 @@
+.ui-datagrid {
+	border: 1px dashed #dddddd;
+	padding: 3px;
+	border-radius: 3px;
+}
+
+.ui-datagrid-title {
+	text-align: center;
+	border: 0px;
+	background-color: #eeeeee;
+	font-size: 1em;
+	font-weight: bold;
+	margin-bottom: 0px;
+	text-align: center;
+}

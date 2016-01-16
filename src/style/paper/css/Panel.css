@@ -1,0 +1,45 @@
+.panel {
+	border-radius: 0;
+	box-shadow: none;
+}
+.panel-body{
+	padding:15px;		
+	border-top:0;
+}
+.panel-border{
+	border:solid 1px #d8d8d8;
+	border-top:0;
+}
+.panel-noborder
+{
+		border:solid 1px #d8d8d8;
+	border-top:0;
+	border-bottom: 0;
+}
+.panel-heading {
+	padding:6px 15px;
+}
+.panel-title > a.piconstyle
+{
+	padding-right: 15px;
+	text-decoration: none;
+	font-size:24px;
+	line-height: 24px;
+	color:white;
+}
+
+.footerborder
+{
+	border: solid 1px #d8d8d8;
+	border-top:none;
+	background-color:#fff;
+	padding: 15px;
+}
+
+.footerhr
+{
+	font-size: 0;
+	height: 1px;
+	margin: 0 15px;
+	background-color: #d8d8d8;
+}

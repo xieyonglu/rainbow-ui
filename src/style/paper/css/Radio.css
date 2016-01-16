@@ -1,0 +1,22 @@
+.radio label, .radio-inline label, .checkbox label, .checkbox-inline label {
+    padding-left: 35px;
+}
+
+.radio, .checkbox {
+    position: relative;
+    display: block;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+.RadioOutPutText{
+    font-size: 13px;
+	color: #2196f3;
+	padding-left: 10px;
+}
+
+.form-horizontal .radio, .form-horizontal .checkbox, .form-horizontal .radio-inline, .form-horizontal .checkbox-inline {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0px;
+}

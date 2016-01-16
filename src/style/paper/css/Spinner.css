@@ -1,0 +1,38 @@
+.input-group-addon:not(:first-child):not(:last-child), .input-group-btn:not(:first-child):not(:last-child), .input-group .form-control:not(:first-child):not(:last-child) {
+    border-radius: 0;
+    height: 32px;
+}
+
+.bootstrap-touchspin .input-group-btn-vertical .bootstrap-touchspin-down {
+    margin-top: -15px;
+    border-radius: 0;
+    border-bottom-right-radius: 4px;
+    background-color:transparent;
+}
+
+.bootstrap-touchspin .input-group-btn-vertical .bootstrap-touchspin-up {
+    border-radius: 0;
+    border-top-right-radius: 4px;
+    margin-top: -5px;
+    background-color:transparent;
+}
+.spinnerfxiright
+{
+  position:absolute;
+  right: 15px;
+  z-index: 99;
+}
+
+.bootstrap-touchspin > .input-group-btn-vertical
+{
+  position: absolute;
+  right:14px;
+  z-index: 99;
+}
+.bootstrap-touchspin > .input-group-btn-vertical .bootstrap-touchspin-up:link,.bootstrap-touchspin > .input-group-btn-vertical .bootstrap-touchspin-down:link{
+
+}
+.bootstrap-touchspin > .input-group-btn-vertical .bootstrap-touchspin-up:hover,.bootstrap-touchspin > .input-group-btn-vertical .bootstrap-touchspin-down:hover{
+color:black;
+border-color:transparent;
+}

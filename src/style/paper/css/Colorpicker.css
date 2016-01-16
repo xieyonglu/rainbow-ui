@@ -1,0 +1,6 @@
+.colorpicker-element > span{
+  position:absolute;
+  right:15px;
+  top:6px;
+  z-index:99;
+}

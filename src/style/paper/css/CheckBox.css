@@ -1,0 +1,16 @@
+.CheckBoxOutPutText{
+    font-size: 16px;
+	color: #2196f3;
+	padding-left: 10px;
+}
+
+input[type="checkbox"]:after, .checkbox input[type="checkbox"]:after, .checkbox-inline input[type="checkbox"]:after
+{
+	background-color:#eee;
+	border:solid 1px #ccc
+}
+input[type="radio"]:after, .radio input[type="radio"]:after, .radio-inline input[type="radio"]:after
+{
+	background-color:#fff;
+	border:solid 1px #ccc;
+}
