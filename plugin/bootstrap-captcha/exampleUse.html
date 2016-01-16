@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+    /* make sure you include jquery, bootstrap and font-awesome librarys */
+</head>
+<body>
+<div id="dropHere"> </div>
+<script>
+//  more tomorrow 6/7/2013
+(function($){
+    "use strict";
+    $(document).ready(function(){
+       $('#dropHere').bootstrapCaptcha({
+          iconSize: '2x',
+          onDrop: function(results){
+            console.log(results);
+          }
+       });
+    });
+}(jQuery));
+</script>
+</body>
+</html>

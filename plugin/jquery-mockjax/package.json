@@ -1,0 +1,98 @@
+{
+  "name": "jquery-mockjax",
+  "title": "jQuery Mockjax",
+  "version": "2.0.1",
+  "main": "./src/jquery.mockjax.js",
+  "description": "The jQuery Mockjax Plugin provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses.",
+  "url": "https://github.com/jakerella/jquery-mockjax",
+  "scripts": {
+    "test": "grunt test:all"
+  },
+  "keywords": [
+    "ajax",
+    "mock",
+    "unit",
+    "testing",
+    "jquery-plugin"
+  ],
+  "author": {
+    "name": "Jonathan Sharp",
+    "url": "http://jdsharp.com"
+  },
+  "contributors": [
+    {
+      "name": "Doug Neiner"
+    },
+    {
+      "name": "Jonathan Creamer"
+    },
+    {
+      "name": "Jordan Kasper"
+    }
+  ],
+  "homepage": "https://github.com/jakerella/jquery-mockjax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakerella/jquery-mockjax.git"
+  },
+  "bugs": {
+    "url": "http://github.com/jakerella/jquery-mockjax/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    },
+    {
+      "type": "GPLv2",
+      "url": "http://www.gnu.org/licenses/gpl-2.0.html"
+    }
+  ],
+  "dependencies": {
+    "jquery": "^2.1.3"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-qunit": "^0.5.2",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha-test": "^0.12.7",
+    "jsdom": "^4.2.0",
+    "load-grunt-tasks": "^0.6.0",
+    "mocha": "^2.2.4",
+    "xmlhttprequest": "^1.7.0"
+  },
+  "gitHead": "44793bf599e7821dfe0a9a6e40c10523168c130e",
+  "_id": "jquery-mockjax@2.0.1",
+  "_shasum": "025061dde556bd0890bcdc8064c7c6ee04999f13",
+  "_from": "jquery-mockjax@>=2.0.1 <3.0.0",
+  "_npmVersion": "2.10.1",
+  "_nodeVersion": "0.12.4",
+  "_npmUser": {
+    "name": "jakerella",
+    "email": "jordan@jordankasper.com"
+  },
+  "maintainers": [
+    {
+      "name": "dirkbonhomme",
+      "email": "dirk@bytelogic.be"
+    },
+    {
+      "name": "appendto",
+      "email": "github@appendto.com"
+    },
+    {
+      "name": "jakerella",
+      "email": "jordan@jordankasper.com"
+    }
+  ],
+  "dist": {
+    "shasum": "025061dde556bd0890bcdc8064c7c6ee04999f13",
+    "tarball": "http://registry.npmjs.org/jquery-mockjax/-/jquery-mockjax-2.0.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/jquery-mockjax/-/jquery-mockjax-2.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}

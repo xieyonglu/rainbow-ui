@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>JQuery Termina Emulator Plugin</title>
+    <link>http://terminal.jcubic.pl/notification.rss</link>
+    <pubDate>Fri, 24 Dec 2010 02:36:09 +0100</pubDate>
+    <image>
+      <url>http://terminal.jcubic.pl/css/images/logo.png</url>
+      <title>JQuery Terminal Emulator Logo</title>
+      <link>http://terminal.jcubic.pl</link>
+    </image>
+    <description>Notifications for JQuery Terminal Emulator Plugin.</description>
+	  <item>
+      <author>jcubic[at]onet[dot]pl</author>
+      <title>New version 0.6</title>
+      <link>http://terminal.jcubic.pl/#download</link>
+      <pubDate>Thu, 05 Jan 2012 22:40:56 +0100</pubDate>
+      <description>New version of jQuery Terminal Emulator.</description>
+    </item>
+	  <item>
+      <author>jcubic[at]onet[dot]pl</author>
+      <title>New version 0.5</title>
+      <link>http://terminal.jcubic.pl/#download</link>
+      <pubDate>Thu, 05 Jan 2012 22:40:56 +0100</pubDate>
+      <description>New version of jQuery Terminal Emulator with few new featues.</description>
+    </item>
+    <item>
+      <author>jcubic[at]onet[dot]pl</author>
+      <title>New version 0.4.5</title>
+      <link>http://terminal.jcubic.pl/#download</link>
+      <pubDate>Thu, 05 Jan 2012 22:40:56 +0100</pubDate>
+      <description>New version of jQuery Terminal Emulator that fix lines wrapping when text contain tabs characters.</description>
+    </item>
+    <item>
+      <author>jcubic[at]onet[dot]pl</author>
+      <title>New version 0.4</title>
+      <link>http://terminal.jcubic.pl/#download</link>
+      <pubDate>Tue, 11 Oct 2011 20:38:22 +0200</pubDate>
+      <description>New version of jQuery Terminal Emulator that fix text formating when formatting contain newlines.</description>
+    </item>
+    <item>
+      <author>jcubic[at]onet[dot]pl</author>
+      <title>New version 0.4</title>
+      <link>http://terminal.jcubic.pl/#download</link>
+      <pubDate>Thu, 06 Oct 2011 21:58:44 +0200</pubDate>
+      <description>New version of jQuery Terminal Emulator that fix text formating when text in more then one line. Tab completion and nested objects as first argument.</description>
+    </item>
+    <item>
+      <author>jcubic[at]onet[dot]pl</author>
+      <title>New version 0.3.8</title>
+      <link>http://terminal.jcubic.pl/#download</link>
+      <pubDate>Sat, 01 Oct 2011 19:00:25 +0200</pubDate>
+      <description>New version of jQuery Terminal Emulator that fix cursor movement when command contain new lines (if you copy/past the text that contain them)</description>
+    </item>
+    <item>
+      <author>jcubic[at]onet[dot]pl</author>
+      <title>New version 0.3.5</title>
+      <link>http://terminal.jcubic.pl/#download</link>
+      <pubDate>Sun, 31 Jul 2011 11:13:49 +0200</pubDate>
+      <description>New version of jQuery Terminal Emulator that fix scrolling in jQuery 1.6</description>
+    </item>
+    <item>
+      <author>jcubic[at]onet[dot]pl</author>
+      <title>New example "Star Wars ASCIIMation"</title>
+      <link>http://terminal.jcubic.pl/examples.php#starwars</link>
+      <pubDate>Thu, 03 Mar 2011 19:03:32 +0100</pubDate>
+      <description>New example showing ASCII animation "Star Wars ASCIIMation" on JQuery Terminal (animation by Simon Jansen from http://www.asciimation.co.nz/).</description>
+    </item>
+    <item>
+      <author>jcubic[at]onet[dot]pl</author>
+      <title>New version with fixes with new page</title>
+      <link>https://github.com/jcubic/jquery.terminal</link>
+      <pubDate>Mon, 28 Feb 2011 01:24:08 +0100</pubDate>
+      <description>You can now download version 0.3.1 from github or from page. Web page is redesigned. New API is documented.</description>
+    </item>
+    <item>
+      <author>jcubic[at]onet[dot]pl</author>
+      <title>Final 0.3 Release on github</title>
+      <link>https://github.com/jcubic/jquery.terminal</link>
+      <pubDate>Sat, 26 Feb 2011 02:49:09 +0100</pubDate>
+      <description>You can now download version 0.3 from github. Fix Resizing and refreashing, long command lines. Support for basic text formating, and allow passing function to echo method, ASCII-ART signature which change depending on size of terminal. Callbacks for Keypress, Keydown that alow to overwrite default keystrokes. Modifications of API (undocumented)</description>
+    </item>
+    <item>
+      <author>jcubic[at]onet[dot]pl</author>
+      <title>Version 0.3-RC1 on github</title>
+      <link>https://github.com/jcubic/jquery.terminal</link>
+      <pubDate>Thu, 24 Feb 2011 16:14:05 +0100</pubDate>
+      <description>You can now download latest version from github: https://github.com/jcubic/jquery.terminal</description>
+    </item>
+    
+    <item>
+      <author>jcubic[at]onet[dot]pl</author>
+      <title>version 0.2.3.9</title>
+      <link>http://terminal.jcubic.pl/#download</link>
+      <pubDate>Sat, 15 Jan 2011 18:25:14 +0100</pubDate>
+      <description>Fix adding enter (0x0D) to the command</description>
+    </item>
+    <item>
+      <author>jcubic[at]onet[dot]pl</author>
+      <title>version 0.2.3.8</title>
+      <link>http://terminal.jcubic.pl/#download</link>
+      <pubDate>Thu, 06 Jan 2011 20:49:26 +0100</pubDate>
+      <description>update mousewheel plugin which fix scrolling in Opera</description>
+    </item>
+    <item>
+      <author>jcubic[at]onet[dot]pl</author>
+      <title>version 0.2.3.6</title>
+      <link>http://terminal.jcubic.pl/#download</link>
+      <pubDate>Thu, 06 Jan 2011 20:49:26 +0100</pubDate>
+      <description>Fix json-serialization in IE and position fixed in tilda plugin IE.
+      </description>
+    </item>
+    <item>
+      <author>jcubic[at]onet[dot]pl</author>
+      <title>version 0.2.3.5</title>
+      <link>http://terminal.jcubic.pl/#download</link>
+      <pubDate>Thu, 06 Jan 2011 20:49:26 +0100</pubDate>
+      <description>Fix demos and transparency for clipboard textarea in IE.
+      </description>
+    </item>
+    <item>
+      <author>jcubic[at]onet[dot]pl</author>
+      <title>Fix download problem</title>
+      <link>http://terminal.jcubic.pl/#download</link>
+      <pubDate>Thu, 06 Jan 2011 19:49:46 +0100</pubDate>
+      <description>There was a typo in zip filename and server compress compressed tar.gz file. You can now download the plugin.
+      </description>
+    </item>
+    <item>
+      <author>jcubic[at]onet[dot]pl</author>
+      <title>Version 0.2.3.4</title>
+      <link>http://terminal.jcubic.pl/#download</link>
+      <pubDate>Mon, 03 Jan 2011 20:24:51 +0100</pubDate>
+      <description>fix long lines in command line issue
+      </description>
+    </item>
+    <item>
+      <author>jcubic[at]onet[dot]pl</author>
+      <title>Version 0.2.3.3</title>
+      <link>http://terminal.jcubic.pl/#download</link>
+      <pubDate>Mon, 03 Jan 2011 20:24:51 +0100</pubDate>
+      <description>fix Termial in Internet Explorer
+      </description>
+    </item>
+    <item>
+      <author>jcubic[at]onet[dot]pl</author>
+      <title>Small Bug Fixes - (version 0.2.3.2)</title>
+      <link>http://terminal.jcubic.pl/#download</link>
+      <pubDate>Sun, 02 Jan 2011 10:51:33 +0100</pubDate>
+      <description>Fix blank line issue (thanks to Chris Janicki for finding the bug), fix CTRL + Arrows and scroll on CTRL+V
+      </description>
+    </item>
+    <item>
+      <author>jcubic[at]onet[dot]pl</author>
+      <title>New version of Terminal - 0.2.3.1</title>
+      <link>http://terminal.jcubic.pl/#download</link>
+      <pubDate>Thu, 30 Dec 2010 01:30:10 +0100</pubDate>
+      <description>There is new verision of JQuery Terminal plugin 0.2.3.1 - allow CTRL+W and CTRL+T
+      </description>
+    </item>
+    <item>
+      <author>jcubic[at]onet[dot]pl</author>
+      <title>New version of Terminal - 0.2.3</title>
+      <link>http://terminal.jcubic.pl/#download</link>
+      <description>There is new verision of JQuery Terminal plugin 0.2.3 - fix for "#$%.{" characters on Opera/Chrome, add cursor move with CTRL+P, CTRL+N, CTRL+F, CTRL+B which also work on Chrome. Fix Arrow Keys on Chrome (for cursor move and command line history). Change License to LGPL3
+      </description>
+      <pubDate>Fri, 24 Dec 2010 02:36:09 +0100</pubDate>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+var test = require('tape');
+var localMedia = require('../index');
+
+test('acquire and release screen', function (t) {
+    var media = new localMedia();
+    media.startScreenShare(function (err, stream) {
+        if (err) {
+            console.log(err);
+            t.fail('getScreenMedia failed', err);
+            return;
+        }
+        t.pass('acquired screen', stream);
+        stream.onended.addEventListener(function (event) {
+            console.log('ended');
+        });
+        console.log(media.localScreens);
+        stream.stop();
+    });
+    /*
+    self.emit('localScreen', stream);
+    self.emit('localScreenStopped', stream);
+    */
+});

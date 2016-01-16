@@ -1,0 +1,53 @@
+{
+  "name": "clockpicker",
+  "description": "A clock-style timepicker for Bootstrap (or jQuery)",
+  "version": "0.0.7",
+  "author": {
+    "name": "Wang Shenwei",
+    "email": "wangshenwei@qq.com",
+    "url": "http://wangshenwei.com/"
+  },
+  "homepage": "http://weareoutman.github.io/clockpicker/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/weareoutman/clockpicker.git"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "~3.8.7",
+    "gulp-uglify": "~0.3.1",
+    "gulp-minify-css": "~0.3.1",
+    "gulp-rename": "~1.2.0",
+    "gulp-concat": "~2.3.4",
+    "gulp-qunit": "^0.3.3",
+    "gulp-replace": "^0.4.0"
+  },
+  "gitHead": "e6ac014b3c167281ac37cf122ab19b6967d8fae4",
+  "bugs": {
+    "url": "https://github.com/weareoutman/clockpicker/issues"
+  },
+  "_id": "clockpicker@0.0.7",
+  "_shasum": "32d02c3a6cb00a3b6ea6d1ec2c5fc147d7bec06e",
+  "_from": "clockpicker@0.0.7",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "approach",
+    "email": "alexejkloos@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "approach",
+      "email": "alexejkloos@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "32d02c3a6cb00a3b6ea6d1ec2c5fc147d7bec06e",
+    "tarball": "http://registry.npmjs.org/clockpicker/-/clockpicker-0.0.7.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/clockpicker/-/clockpicker-0.0.7.tgz",
+  "readme": "ERROR: No README data found!"
+}

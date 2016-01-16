@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+	<head>
+		<title>jQuery Barcode</title>
+		<script type="text/javascript" src="jquery-1.4.4.min.js"></script>
+		<script type="text/javascript" src="jquery-barcode.js"></script>
+		<style type="text/css">
+		.barcodeImg{margin:10px 0px}
+		</style>
+	</head>
+	<body>
+		<div style="margin:10px">	
+			<input id="src" value="11225921991"></input><br/>				
+			<input type="button" onclick='code11()' value="code11"> 	
+			<input type="button" onclick='code39()' value="code39"> 
+			<input type="button" onclick='code93()' value="code93">
+			<input type="button" onclick='code128()' value="code128">
+			<input type="button" onclick='ean8()' value="ean8"> 		
+			<input type="button" onclick='ean13()' value="ean13">
+			<input type="button" onclick='ean13()' value="std25">
+			<input type="button" onclick='int25()' value="int25">
+			<input type="button" onclick='msi()' value="msi">
+			<input type="button" onclick='datamatrix()' value="datamatrix">
+			<div id="bcTarget" class="barcodeImg"></div>			
+		</div>
+
+		<script type="text/javascript">
+
+
+		function code11(){
+			$("#bcTarget").empty().barcode($("#src").val(), "code11",{barWidth:2, barHeight:30,showHRI:false});
+		}
+
+		function code39(){
+			$("#bcTarget").empty().barcode($("#src").val(), "code39",{barWidth:2, barHeight:30,showHRI:false});
+		}
+
+		function code93(){
+			$("#bcTarget").empty().barcode($("#src").val(), "code93",{barWidth:2, barHeight:30,showHRI:false});
+		}
+
+		function code128(){
+			$("#bcTarget").empty().barcode($("#src").val(), "code128",{barWidth:1, barHeight:30,showHRI:false});
+		}
+
+		function ean8(){
+			$("#bcTarget").empty().barcode($("#src").val(), "ean8",{barWidth:2, barHeight:30,showHRI:false});
+		}
+
+		function ean13(){
+			$("#bcTarget").empty().barcode($("#src").val(), "ean13",{barWidth:2, barHeight:30,showHRI:false});
+		}
+
+		function std25(){
+			$("#bcTarget").empty().barcode($("#src").val(), "std25",{barWidth:2, barHeight:30,showHRI:false});
+		}
+
+		function int25(){
+			$("#bcTarget").empty().barcode($("#src").val(), "int25",{barWidth:2, barHeight:30,showHRI:false});
+		}
+
+		function msi(){
+			$("#bcTarget").empty().barcode($("#src").val(), "msi",{barWidth:2, barHeight:30,showHRI:false});
+		}
+
+		function datamatrix(){
+			$("#bcTarget").empty().barcode($("#src").val(), "datamatrix",{barWidth:2, barHeight:30,showHRI:false});
+		}
+		</script>
+
+	</body>
+</html>

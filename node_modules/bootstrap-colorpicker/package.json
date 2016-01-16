@@ -1,0 +1,46 @@
+{
+  "name": "bootstrap-colorpicker",
+  "version": "2.3.0",
+  "description": "A nice and customizable colorpicker plugin for Twitter Bootstrap",
+  "main": "./dist/js/bootstrap-colorpicker.js",
+  "homepage": "http://mjolnic.com/bootstrap-colorpicker/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mjolnic/bootstrap-colorpicker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mjolnic/bootstrap-colorpicker/issues"
+  },
+  "keywords": [
+    "bootstrap",
+    "colorpicker"
+  ],
+  "author": {
+    "name": "Javier Aguilar @mjolnic"
+  },
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://opensource.org/licenses/Apache-2.0"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.10"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt-recess": "~0.5.0",
+    "grunt-combine": "~0.8.1",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-jsbeautifier": "~0.2.10",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "readme": "# Bootstrap Colorpicker 2.3\nA nice and customizable colorpicker plugin for Twitter Bootstrap\n\n[![Build Status](https://travis-ci.org/mjolnic/bootstrap-colorpicker.png)](https://travis-ci.org/mjolnic/bootstrap-colorpicker)\n \n## Installation\nFor downloading the source code, you have many choices:\n\n- Downloading the [latest source code ZIP file](https://github.com/mjolnic/bootstrap-colorpicker/archive/master.zip)\n- Cloning: `git clone https://github.com/mjolnic/bootstrap-colorpicker.git`\n- Installing via: `bower install mjolnic-bootstrap-colorpicker`\n- Installing via: `npm install bootstrap-colorpicker`\n\n## Getting started\n- For using the plugin you will only need the files under the `dist` folder\n- You can read the [documentation here](http://mjolnic.github.io/bootstrap-colorpicker/)\n\n## Contributing and reporting issues\nIf you want to contribute to the source code or report issues and suggestions, please read the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines first.\n\n## Credits\nOriginally written by [Stefan Petre](http://www.eyecon.ro/)\n",
+  "readmeFilename": "README.md",
+  "_id": "bootstrap-colorpicker@2.3.0",
+  "_shasum": "b011df83145de8a8d0db90d03adf77887c298356",
+  "_from": "bootstrap-colorpicker@^2.2.0",
+  "_resolved": "https://registry.npmjs.org/bootstrap-colorpicker/-/bootstrap-colorpicker-2.3.0.tgz"
+}
