@@ -1,15 +1,18 @@
-版本: 1.0.8 时间: 2016-01-18
-1. 更改组件FullCalendar为Schedule
-2. 删除组件ClockPicker
-3. Overlay库增加组件Tooltip
-4. Panel库增加组件ToolBar
-5. Misc库增加组件Event, Facet, HotKey, Poll, Spacer, Terminal
+athena-ui
+======
 
-版本: 1.0.7 时间: 2016-01-11
-1. 增加Multimedia库，并添加组件Camera, Code(BarCode/QRCode), Cropper, Galleria, Graphic, ImageCompare, Media
-2. 增加toolkip库，并添加组件Draggable, Droppable, Resizable, Selectable, Sortable
-3. Input库添加组件Signature
-4. Rainbow UI defect的修复，以及组件的优化 
+版本: 1.0.8 时间: 2016-01-18
+- 1. 更改组件FullCalendar为Schedule
+- 2. 删除组件ClockPicker
+- 3. Overlay库增加组件Tooltip
+- 4. Panel库增加组件ToolBar
+- 5. Misc库增加组件Event, Facet, HotKey, Poll, Spacer, Terminal
+
+- 版本: 1.0.7 时间: 2016-01-11
+- 1. 增加Multimedia库，并添加组件Camera, Code(BarCode/QRCode), Cropper, Galleria, Graphic, ImageCompare, Media
+- 2. 增加toolkip库，并添加组件Draggable, Droppable, Resizable, Selectable, Sortable
+- 3. Input库添加组件Signature
+- 4. Rainbow UI defect的修复，以及组件的优化 
 
 版本: 1.0.6 时间: 2016-01-04
 1. 更改组件名Alert为Message
