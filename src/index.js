@@ -39,11 +39,11 @@ module.exports = {
 	UIDataList: require("./js/component/data/datalist/DataList"),
 	UIDataTable: require("./js/component/data/datatable/DataTable"),
 	UIColumn: require("./js/component/data/datatable/Column"),
-	UIFullCalendar: require("./js/component/data/fullcalendar/FullCalendar"),
 	UIBaiduMap: require("./js/component/data/map/BaiduMap"),
 	UIGoogleMap: require("./js/component/data/map/GoogleMap"),
 	UIMindMap: require("./js/component/data/mindmap/MindMap"),
 	UIPickList: require("./js/component/data/picklist/PickList"),
+	UISchedule: require("./js/component/data/schedule/Schedule"),
 	UITimeLine: require("./js/component/data/timeline/TimeLine"),
 	UITimeLineItem: require("./js/component/data/timeline/TimeLineItem"),
 	UITree: require("./js/component/data/tree/Tree"),
@@ -69,7 +69,7 @@ module.exports = {
 	UITwoText: require("./js/component/input/keyvalue/TwoText"),
 	
 	// Basic
-	UIClockPicker: require("./js/component/input/basic/ClockPicker"),
+	//UIClockPicker: require("./js/component/input/basic/ClockPicker"),
 	UIColorPicker: require("./js/component/input/basic/ColorPicker"),
 	UIDateRangePicker: require("./js/component/input/basic/DateRangePicker"),
 	UIDateTimePicker: require("./js/component/input/basic/DateTimePicker"),
@@ -123,6 +123,7 @@ module.exports = {
 	UICodeMirror: require("./js/component/misc/CodeMirror"),
 	UIEvent: require("./js/component/misc/Event"),
 	UIException: require("./js/component/misc/Exception"),
+	UIFacet: require("./js/component/misc/Facet"),
 	UIHotKey: require("./js/component/misc/HotKey"),
 	UIIcon: require("./js/component/misc/Icon"),
 	UILabel: require("./js/component/misc/Label"),
@@ -135,6 +136,7 @@ module.exports = {
 	UISection: require("./js/component/misc/Section"),
 	UISpacer: require("./js/component/misc/Spacer"),
 	UITerminal: require("./js/component/misc/Terminal"),
+	UIKeyBoard: require("./js/component/misc/KeyBoard"),
 	
 	
 	// Overlay Component
@@ -167,6 +169,7 @@ module.exports = {
 	UITab: require("./js/component/panel/tab/Tab"),
 	UITabItem: require("./js/component/panel/tab/TabItem"),
 	UITabItemList: require("./js/component/panel/tab/TabItemList"),
+	UIToolBar: require("./js/component/panel/toolbar/ToolBar"),
 	UIUpdatePanel: require("./js/component/panel/updatepanel/UpdatePanel"),
 	UIWizard: require("./js/component/panel/wizard/Wizard"),
 	UIWizardStep: require("./js/component/panel/wizard/WizardStep"),
@@ -197,15 +200,15 @@ module.exports = {
 	// Util
 	Ajax: require("./js/util/Ajax"),
 	AjaxUtil: require("./js/util/AjaxUtil"),
-	JSONUtil: require("./js/util/JSONUtil"),
+	//JSONUtil: require("./js/util/JSONUtil"),
 	DateUtil: require("./js/util/DateUtil"),
 	ArrayUtil: require("./js/util/ArrayUtil"),
-	ELUtil: require("./js/util/ELUtil"),
+	//ELUtil: require("./js/util/ELUtil"),
 	I18NUtil: require("./js/util/I18NUtil"),
 	I18N: require("./js/util/I18NUtil").getMessage,
 	MessageHelper: require("./js/util/MessageHelper"),
 	StringUtil: require("./js/util/StringUtil"),
-	Util: require("./js/util/Util"),
+	//Util: require("./js/util/Util"),
 	
 	
 	// Model
@@ -217,4 +220,5 @@ module.exports = {
 	config: require("./js/component-config"),
 	
 };
+
 require("./css/RainbowUI.css");
