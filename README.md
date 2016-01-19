@@ -5,7 +5,6 @@
 4. Panel库增加组件ToolBar
 5. Misc库增加组件Event, Facet, HotKey, Poll, Spacer, Terminal
 
-
 版本: 1.0.7 时间: 2016-01-11
 1. 增加Multimedia库，并添加组件Camera, Code(BarCode/QRCode), Cropper, Galleria, Graphic, ImageCompare, Media
 2. 增加toolkip库，并添加组件Draggable, Droppable, Resizable, Selectable, Sortable
