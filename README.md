@@ -1,53 +1,52 @@
-°æ±¾ : 1.0.8 Ê±¼ä: 2016-01-18
-1. ¸ü¸Ä×é¼şFullCalendarÎªSchedule
-2. É¾³ı×é¼şClockPicker
-3. Overlay¿âÔö¼Ó×é¼şTooltip
-4. Panel¿âÔö¼Ó×é¼şToolBar
-5. Misc¿âÔö¼Ó×é¼şEvent, Facet, HotKey, Poll, Spacer, Terminal
+ç‰ˆæœ¬: 1.0.8 æ—¶é—´: 2016-01-18
+1. æ›´æ”¹ç»„ä»¶FullCalendarä¸ºSchedule
+2. åˆ é™¤ç»„ä»¶ClockPicker
+3. Overlayåº“å¢åŠ ç»„ä»¶Tooltip
+4. Panelåº“å¢åŠ ç»„ä»¶ToolBar
+5. Miscåº“å¢åŠ ç»„ä»¶Event, Facet, HotKey, Poll, Spacer, Terminal
 
 
-°æ±¾: 1.0.7 Ê±¼ä: 2016-01-11
-1. Ôö¼ÓMultimedia¿â£¬²¢Ìí¼Ó×é¼şCamera, Code(BarCode/QRCode), Cropper, Galleria, Graphic, ImageCompare, Media
-2. Ôö¼Ótoolkip¿â£¬²¢Ìí¼Ó×é¼şDraggable, Droppable, Resizable, Selectable, Sortable
-3. Input¿âÌí¼Ó×é¼şSignature
-4. Rainbow UI defectµÄĞŞ¸´£¬ÒÔ¼°×é¼şµÄÓÅ»¯ 
+ç‰ˆæœ¬: 1.0.7 æ—¶é—´: 2016-01-11
+1. å¢åŠ Multimediaåº“ï¼Œå¹¶æ·»åŠ ç»„ä»¶Camera, Code(BarCode/QRCode), Cropper, Galleria, Graphic, ImageCompare, Media
+2. å¢åŠ toolkipåº“ï¼Œå¹¶æ·»åŠ ç»„ä»¶Draggable, Droppable, Resizable, Selectable, Sortable
+3. Inputåº“æ·»åŠ ç»„ä»¶Signature
+4. Rainbow UI defectçš„ä¿®å¤ï¼Œä»¥åŠç»„ä»¶çš„ä¼˜åŒ– 
 
-°æ±¾: 1.0.6 Ê±¼ä: 2016-01-04
-1. ¸ü¸Ä×é¼şÃûAlertÎªMessage
-2. ÎªButtonÌí¼ÓupdateÊôĞÔ
-3. Rainbow UI defectµÄĞŞ¸´£¬ÒÔ¼°×é¼şµÄÓÅ»¯
+ç‰ˆæœ¬: 1.0.6 æ—¶é—´: 2016-01-04
+1. æ›´æ”¹ç»„ä»¶åAlertä¸ºMessage
+2. ä¸ºButtonæ·»åŠ updateå±æ€§
+3. Rainbow UI defectçš„ä¿®å¤ï¼Œä»¥åŠç»„ä»¶çš„ä¼˜åŒ–
 
-°æ±¾: 1.0.5 Ê±¼ä: 2016-12-13[T]00:00:00
-1. ×é¼şµÄID×Ô¶¯Éú³ÉºÍIDÖØ¸´Ğ£Ñé¹¦ÄÜ
-2. Rainbow UI defectµÄĞŞ¸´£¬ÒÔ¼°×é¼şµÄÓÅ»¯ 
-3. Text×é¼şÔö¼ÓÁËprefixTextºÍsuffixTextÁ½¸öÊôĞÔ£¬onPrefixClickºÍonSuffixClickÁ½¸öÊÂ¼ş·â×°OnClickEvent
-4. TreeµÄonClick·â×°ÁËOnClickEventÊÂ¼ş
+ç‰ˆæœ¬: 1.0.5 æ—¶é—´: 2016-12-13
+1. ç»„ä»¶çš„IDè‡ªåŠ¨ç”Ÿæˆå’ŒIDé‡å¤æ ¡éªŒåŠŸèƒ½
+2. Rainbow UI defectçš„ä¿®å¤ï¼Œä»¥åŠç»„ä»¶çš„ä¼˜åŒ– 
+3. Textç»„ä»¶å¢åŠ äº†prefixTextå’ŒsuffixTextä¸¤ä¸ªå±æ€§ï¼ŒonPrefixClickå’ŒonSuffixClickä¸¤ä¸ªäº‹ä»¶å°è£…OnClickEvent
+4. Treeçš„onClickå°è£…äº†OnClickEventäº‹ä»¶
 
-°æ±¾: 1.0.4 Ê±¼ä: 2016-12-6
-1. ĞÂÔöFullCalendar£¬Layout£¬ProgressÈı¸ö¿Ø¼ş 
-2. Rainbow UI defectµÄĞŞ¸´£¬ÒÔ¼°×é¼şµÄÓÅ»¯ 
-3. Rainbow UI validateÑùÊ½µÄµ÷Õû
-4. Ìá¹©valueLinkÊôĞÔ£¬Ö§³ÖÊı¾İµÄË«Ïò°ó¶¨
+ç‰ˆæœ¬: 1.0.4 æ—¶é—´: 2016-12-6
+1. æ–°å¢FullCalendarï¼ŒLayoutï¼ŒProgressä¸‰ä¸ªæ§ä»¶ 
+2. Rainbow UI defectçš„ä¿®å¤ï¼Œä»¥åŠç»„ä»¶çš„ä¼˜åŒ– 
+3. Rainbow UI validateæ ·å¼çš„è°ƒæ•´
+4. æä¾›valueLinkå±æ€§ï¼Œæ”¯æŒæ•°æ®çš„åŒå‘ç»‘å®š
 
-°æ±¾ : 1.0.3 Ê±¼ä: 2016-11-30
-1. ĞÂÔöTimeline£¬CodeMirror£¬Carousel£¬MindMap£¬DynamicSection£¬LetNav 6¸ö¿Ø¼ş 
-2. Rainbow UIµ×²ã¿Ø¼şµÄÊµÏÖ¶¼ÊµÏÖÁËES6µÄÓï·¨¹æÔò£¬ÍÆ¼öÏîÄ¿ÉÏÊ¹ÓÃES6µÄÓï·¨
-3. Rainbow UI defectµÄĞŞ¸´£¬ÒÔ¼°×é¼şµÄÓÅ»¯ 
-4. RainbowUIµ×²ãÒ»Ğ©´úÂëÊ¹ÓÃÁËmixinÊµÏÖ·½Ê½
-5. Immutable¿âµÄÒıÈë£¬ÍÆ¼öÏîÄ¿ÉÏÊ¹ÓÃImmutableÕâ¸ö¿â
+ç‰ˆæœ¬: 1.0.3 æ—¶é—´: 2016-11-30
+1. æ–°å¢Timelineï¼ŒCodeMirrorï¼ŒCarouselï¼ŒMindMapï¼ŒDynamicSectionï¼ŒLetNav 6ä¸ªæ§ä»¶ 
+2. Rainbow UIåº•å±‚æ§ä»¶çš„å®ç°éƒ½å®ç°äº†ES6çš„è¯­æ³•è§„åˆ™ï¼Œæ¨èé¡¹ç›®ä¸Šä½¿ç”¨ES6çš„è¯­æ³•
+3. Rainbow UI defectçš„ä¿®å¤ï¼Œä»¥åŠç»„ä»¶çš„ä¼˜åŒ– 
+4. RainbowUIåº•å±‚ä¸€äº›ä»£ç ä½¿ç”¨äº†mixinå®ç°æ–¹å¼
+5. Immutableåº“çš„å¼•å…¥ï¼Œæ¨èé¡¹ç›®ä¸Šä½¿ç”¨Immutableè¿™ä¸ªåº“
 
-°æ±¾ : 1.0.2 Ê±¼ä: 2016-11-16
-1. Rainbow UIÎÄµµµÄ¹ú¼Ê»¯
-2. Rainbow UI defectµÄĞŞ¸´£¬ÒÔ¼°×é¼şµÄÓÅ»¯
-3. ×é¼şµÄCSSÑùÊ½µ÷ÊÔ 
-4. Quick StartµÄ±àĞ´
-5. Business ComponentsÌí¼ÓCustomerºÍBCPµÄARAP SearchÊµÀı
+ç‰ˆæœ¬: 1.0.2 æ—¶é—´: 2016-11-16
+1. Rainbow UIæ–‡æ¡£çš„å›½é™…åŒ–
+2. Rainbow UI defectçš„ä¿®å¤ï¼Œä»¥åŠç»„ä»¶çš„ä¼˜åŒ–
+3. ç»„ä»¶çš„CSSæ ·å¼è°ƒè¯• 
+4. Quick Startçš„ç¼–å†™
+5. Business Componentsæ·»åŠ Customerå’ŒBCPçš„ARAP Searchå®ä¾‹
 
-°æ±¾: 1.0.1 Ê±¼ä: 2016-11-09
-1. Button×é£¬Data×é£¬Input×é£¬File×é£¬Menu×é£¬Other×é£¬Overlay×é£¬Layout×éµÈ×é¼şµÄ¿ª·¢
-2. Rainbow UIÎÄµµµÄ±àĞ´ 
-3. Rainbow UI defectµÄĞŞ¸´ £¬ÒÔ¼°×é¼şµÄÓÅ»¯
-4. ×é¼şµÄCSSÑùÊ½µ÷ÊÔ
+ç‰ˆæœ¬: 1.0.1 æ—¶é—´: 2016-11-09
+1. Buttonç»„ï¼ŒDataç»„ï¼ŒInputç»„ï¼ŒFileç»„ï¼ŒMenuç»„ï¼ŒOtherç»„ï¼ŒOverlayç»„ï¼ŒLayoutç»„ç­‰ç»„ä»¶çš„å¼€å‘
+2. Rainbow UIæ–‡æ¡£çš„ç¼–å†™ 
+3. Rainbow UI defectçš„ä¿®å¤ ï¼Œä»¥åŠç»„ä»¶çš„ä¼˜åŒ–
+4. ç»„ä»¶çš„CSSæ ·å¼è°ƒè¯•
 
-#Ê¹ÓÃÕßÇë×¢Ã÷³ö´¦£¬×ğÖØ×÷ÕßµÄ°æÈ¨£¬Ğ»Ğ»
-
+#ä½¿ç”¨è€…è¯·æ³¨æ˜å‡ºå¤„ï¼Œå°Šé‡ä½œè€…çš„ç‰ˆæƒï¼Œè°¢è°¢
