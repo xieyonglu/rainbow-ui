@@ -1,7 +1,7 @@
 rainbow-ui
 ======
 
-在线文档可以参考: http://210.13.77.78:9700/rainbowUI/
+在线文档可以参考: http://210.13.77.78:6900/rainbowUI
 
 #### 版本: 0.0.8 时间: 2016-01-18
  1. 更改组件FullCalendar为Schedule
